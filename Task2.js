@@ -1,4 +1,4 @@
-//1.- Character Count
+//1.- Reverse String
 function reverseString(string){
     let arr=[];
     arr=[...string];  

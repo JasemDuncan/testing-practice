@@ -1,4 +1,4 @@
-//1.- Test Character Count
+//1.- Test reverse string
 const reverseString = require('./Task2');
 
 test('test revser strign',()=>{
